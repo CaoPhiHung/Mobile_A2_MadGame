@@ -1,0 +1,11 @@
+my_butterfly.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+butterfly_fly
+  rotate: false
+  xy: 2, 2
+  size: 850, 211
+  orig: 874, 229
+  offset: 19, 0
+  index: -1

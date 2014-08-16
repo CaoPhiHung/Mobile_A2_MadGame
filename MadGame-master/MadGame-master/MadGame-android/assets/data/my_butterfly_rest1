@@ -1,0 +1,11 @@
+my_butterfly_rest1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+butterflyrest-top
+  rotate: false
+  xy: 1, 1
+  size: 982, 197
+  orig: 1004, 219
+  offset: 15, 7
+  index: -1
